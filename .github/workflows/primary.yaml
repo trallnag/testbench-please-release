@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+
+name: primary
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [trunk]
+
+jobs:
+  primary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: simple
+          bump-minor-pre-major: true
