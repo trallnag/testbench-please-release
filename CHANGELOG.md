@@ -1,5 +1,31 @@
 # Changelog
 
+## [0.0.1](https://github.com/trallnag/testbench-release-please/compare/v0.0.0...v0.0.1) (2022-06-25)
+
+
+### Summary & Highlights
+
+- Blabalfe
+- fefewfwe
+- fewfewfew
+
+
+#### ergrgrgrrg
+
+hallo hallo hallo
+
+
+#### gfregregreg
+
+gregregre
+gregregre
+gregre
+
+
+### Reverts
+
+* everything ([1f2adc9](https://github.com/trallnag/testbench-release-please/commit/1f2adc9cee92b97d361fbaa173612f7d43f81212))
+
 ## 0.0.0 (2022-06-25)
 
 
