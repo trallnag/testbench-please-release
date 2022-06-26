@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0](https://github.com/trallnag/testbench-release-please/compare/v0.0.2...v1.0.0) (2022-06-26)
+
+
+### Features
+
+* add option to set headers ([189e945](https://github.com/trallnag/testbench-release-please/commit/189e945fb2b1abab4cffce545352226e220590af))
+
+
+### Tests
+
+* add more tests for coverage ([5a946d5](https://github.com/trallnag/testbench-release-please/commit/5a946d535cb8d0173d970966c41dd85ad26061fd))
+
 ## [0.0.2](https://github.com/trallnag/testbench-release-please/compare/v0.0.1...v0.0.2) (2022-06-26)
 
 
