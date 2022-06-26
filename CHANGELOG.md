@@ -5,6 +5,8 @@
 
 ### Summary & Highlights
 
+Just adding something to the changelog to see how release please will handle it.
+
 - Blabalfe
 - fefewfwe
 - fewfewfew
