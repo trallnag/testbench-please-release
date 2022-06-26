@@ -22,10 +22,10 @@ jobs:
               { "type": "perf",      "section": "Performance",  "hidden": false },
               { "type": "revert",    "section": "Revert",       "hidden": false },
               { "type": "refactor",  "section": "Refactor",     "hidden": false },
+              { "type": "test",      "section": "Tests",        "hidden": false },
               { "type": "docs",      "section": "Docs",         "hidden": true },
               { "type": "style",     "section": "Styles",       "hidden": true },
               { "type": "chore",     "section": "Chores",       "hidden": true },
-              { "type": "test",      "section": "Tests",        "hidden": true },
               { "type": "build",     "section": "Build",        "hidden": true },
               { "type": "ci",        "section": "CI",           "hidden": true }
             ]
