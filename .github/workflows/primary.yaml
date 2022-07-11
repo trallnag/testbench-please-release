@@ -27,5 +27,5 @@ jobs:
               { "type": "build",     "section": "Build",        "hidden": false },
               { "type": "ci",        "section": "CI/CD",        "hidden": false },
               { "type": "style",     "section": "Styles",       "hidden": false },
-              { "type": "chore",     "section": "Chores",       "hidden": true }   
+              { "type": "chore",     "section": "Chores",       "hidden": true }
             ]
