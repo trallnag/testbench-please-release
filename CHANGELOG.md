@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.1](https://github.com/trallnag/testbench-release-please/compare/v1.0.0...v1.0.1) (2022-07-11)
+
+
+### CI/CD
+
+* **pre-commit:** Add pre-commit config ([34b999f](https://github.com/trallnag/testbench-release-please/commit/34b999f495506223db282ada344d2a887bb07ab4))
+* **release-please:** Adjust changelog-types mapping ([7d49f68](https://github.com/trallnag/testbench-release-please/commit/7d49f68620522a005b96eb055c7bce863c9904ff))
+
+
+### Docs
+
+* Add missing license ([844cad8](https://github.com/trallnag/testbench-release-please/commit/844cad879a2ac423c4a1411351411ab406e44fba))
+* **changelog:** Update changelog to reflect release-please config change ([7406a85](https://github.com/trallnag/testbench-release-please/commit/7406a857b4fd9ee7af0e6528bfaf794cdbfa303c))
+* **release-please:** Add docs for Release Please ([fd8e789](https://github.com/trallnag/testbench-release-please/commit/fd8e789116411359c52f8b8e46c7efb25599a728))
+
 ## [1.0.0](https://github.com/trallnag/testbench-release-please/compare/v0.0.2...v1.0.0) (2022-06-26)
 
 
